@@ -2,7 +2,7 @@
 
 CRUD operations with employee.
 
-Written with PHP.
+Written with PHP v7.2.9
 
 # Installation instructions: 
 

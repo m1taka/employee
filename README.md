@@ -1,10 +1,10 @@
-== Employee App
+# Employee App
 
 CRUD operations with employee.
 
 Written with PHP.
 
-== Installation instructions: 
+# Installation instructions: 
 
 1. Install xampp from : https://www.apachefriends.org/download.html
 
